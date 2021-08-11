@@ -40,6 +40,10 @@ https://nikamooz.com/product/data-engineering-course/
 
 [Amazon.com: Head First Statistics: A Brain-Friendly Guide: 9780596527587: Griffiths, Dawn: Books](https://www.amazon.com/Head-First-Statistics-Brain-Friendly-Guide/dp/0596527586)
 
+### Visualization
+
+[Course | Analyzing and Visualizing Data with Power BI | edX](https://learning.edx.org/course/course-v1:Microsoft+DAT207x+3T2018/home)
+
 
 
 ## BI Analyst
@@ -47,6 +51,12 @@ https://nikamooz.com/product/data-engineering-course/
 ### Python
 
 [Python 3 Programming | Coursera](https://www.coursera.org/specializations/python-3-programming)
+
+### Visualization
+
+[Course | Analyzing and Visualizing Data with Power BI | edX](https://learning.edx.org/course/course-v1:Microsoft+DAT207x+3T2018/home)
+
+[Course | Analyzing and Visualizing Data with SQL Server Reporting Services | edX](https://learning.edx.org/course/course-v1:Microsoft+DAT214x+3T2017/home)
 
 
 
@@ -72,5 +82,16 @@ https://nikamooz.com/product/data-engineering-course/
 
 ### OLAP
 
+[Course | Developing a Multidimensional Data Model | edX](https://learning.edx.org/course/course-v1:Microsoft+DAT224x+3T2017/home)
+
+[Course | Developing a SQL Server Analysis Services Tabular Data Model | edX](https://learning.edx.org/course/course-v1:Microsoft+DAT225x+3T2017a/home)
 
 
+
+## Finance
+
+[CFA 2019 Level 1 Kaplan Schweser Books 1-5, Practice Exam Volume 1, Workbook 1-: Kaplan Schweser: 9781475478297: Amazon.com: Books](https://www.amazon.com/Kaplan-Schweser-Practice-Workbook-QuickSheet/dp/1475478291/ref=sr_1_7?dchild=1&qid=1628656022&refinements=p_27%3AKaplan+Schweser&s=books&sr=1-7)
+
+[2019 CFA level II Kaplan (Complete Set) + Practice Exam': Kaplan Schweser: 9781475479683: Amazon.com: Books](https://www.amazon.com/2019-level-Kaplan-Complete-Practice/dp/1475479689/ref=sr_1_2?dchild=1&qid=1628656022&refinements=p_27%3AKaplan+Schweser&s=books&sr=1-2)
+
+[کتاب سهام سرمایه [چ1\] -کتاب گیسوم (gisoom.com)](https://www.gisoom.com/book/11459618/کتاب-سهام-سرمایه/)
