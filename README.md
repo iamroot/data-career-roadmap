@@ -22,9 +22,11 @@
 
 [Distributed Computing with Spark SQL | Coursera](https://www.coursera.org/learn/spark-sql)
 
-
-
 ### SQL
+
+[Introduction to Relational Databases (RDBMS) | Coursera](https://www.coursera.org/learn/introduction-to-relational-databases?specialization=ibm-data-engineer)
+
+[Introduction to Big Data with Spark and Hadoop | Coursera](https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop?specialization=ibm-data-engineer)
 
 [Querying Data with Transact-SQL | edX](https://www.edx.org/course/querying-data-with-transact-sql-2)
 
