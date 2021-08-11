@@ -20,6 +20,10 @@ https://nikamooz.com/product/data-engineering-course/
 
 [Apache Nifi for Dummies: Learn the Basics | Udemy](https://www.udemy.com/course/apache-nifi-for-dummies-learn-the-basics/)
 
+[Distributed Computing with Spark SQL | Coursera](https://www.coursera.org/learn/spark-sql)
+
+
+
 ### SQL
 
 [Querying Data with Transact-SQL | edX](https://www.edx.org/course/querying-data-with-transact-sql-2)
@@ -56,9 +60,17 @@ https://nikamooz.com/product/data-engineering-course/
 
 [Course | Analyzing and Visualizing Data with Power BI | edX](https://learning.edx.org/course/course-v1:Microsoft+DAT207x+3T2018/home)
 
+[آموزش ساخت داشبورد تعاملی با Streamlit | نیک آموز (nikamooz.com)](https://nikamooz.com/product/streamlit-course/)
+
+
+
 ### SQL
 
 [Querying Data with Transact-SQL | edX](https://www.edx.org/course/querying-data-with-transact-sql-2)
+
+### Other
+
+[Apache Spark (TM) SQL for Data Analysts | Coursera](https://www.coursera.org/learn/apache-spark-sql-for-data-analysts)
 
 
 
@@ -73,6 +85,12 @@ https://nikamooz.com/product/data-engineering-course/
 [Course | Analyzing and Visualizing Data with Power BI | edX](https://learning.edx.org/course/course-v1:Microsoft+DAT207x+3T2018/home)
 
 [Course | Analyzing and Visualizing Data with SQL Server Reporting Services | edX](https://learning.edx.org/course/course-v1:Microsoft+DAT214x+3T2017/home)
+
+[آموزش ساخت داشبورد تعاملی با Streamlit | نیک آموز (nikamooz.com)](https://nikamooz.com/product/streamlit-course/)
+
+[آموزش کتابخانه Plotly | نیک آموز (nikamooz.com)](https://nikamooz.com/product/plotly-course/)
+
+[آموزش کتابخانه Seaborn | نیک آموز (nikamooz.com)](https://nikamooz.com/product/seaborn-course/)
 
 ### SQL
 
@@ -115,3 +133,8 @@ https://nikamooz.com/product/data-engineering-course/
 [2019 CFA level II Kaplan (Complete Set) + Practice Exam': Kaplan Schweser: 9781475479683: Amazon.com: Books](https://www.amazon.com/2019-level-Kaplan-Complete-Practice/dp/1475479689/ref=sr_1_2?dchild=1&qid=1628656022&refinements=p_27%3AKaplan+Schweser&s=books&sr=1-2)
 
 [کتاب سهام سرمایه [چ1\] -کتاب گیسوم (gisoom.com)](https://www.gisoom.com/book/11459618/کتاب-سهام-سرمایه/)
+
+[Investment Management with Python and Machine Learning | Coursera](https://www.coursera.org/specializations/investment-management-python-machine-learning)
+
+[Fundamentals of Quantitative Modeling | Coursera](https://www.coursera.org/learn/wharton-quantitative-modeling)
+
