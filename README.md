@@ -16,7 +16,9 @@ https://nikamooz.com/product/data-engineering-course/
 
 [Course | Implementing ETL with SQL Server Integration Services | edX](https://learning.edx.org/course/course-v1:Microsoft+DAT217x+3T2018/home)
 
+### SQL
 
+[Querying Data with Transact-SQL | edX](https://www.edx.org/course/querying-data-with-transact-sql-2)
 
 ## Data Scientist
 
@@ -28,7 +30,9 @@ https://nikamooz.com/product/data-engineering-course/
 
 [Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning)
 
+### SQL
 
+[Querying Data with Transact-SQL | edX](https://www.edx.org/course/querying-data-with-transact-sql-2)
 
 ## Data Analyst
 
@@ -44,7 +48,9 @@ https://nikamooz.com/product/data-engineering-course/
 
 [Course | Analyzing and Visualizing Data with Power BI | edX](https://learning.edx.org/course/course-v1:Microsoft+DAT207x+3T2018/home)
 
+### SQL
 
+[Querying Data with Transact-SQL | edX](https://www.edx.org/course/querying-data-with-transact-sql-2)
 
 ## BI Analyst
 
@@ -58,7 +64,9 @@ https://nikamooz.com/product/data-engineering-course/
 
 [Course | Analyzing and Visualizing Data with SQL Server Reporting Services | edX](https://learning.edx.org/course/course-v1:Microsoft+DAT214x+3T2017/home)
 
+### SQL
 
+[Querying Data with Transact-SQL | edX](https://www.edx.org/course/querying-data-with-transact-sql-2)
 
 ## BI Developer
 
@@ -66,7 +74,9 @@ https://nikamooz.com/product/data-engineering-course/
 
 [Python 3 Programming | Coursera](https://www.coursera.org/specializations/python-3-programming)
 
+### SQL
 
+[Querying Data with Transact-SQL | edX](https://www.edx.org/course/querying-data-with-transact-sql-2)
 
 ### Data Warehouse Fundamental
 
@@ -77,8 +87,6 @@ https://nikamooz.com/product/data-engineering-course/
 ### SSIS
 
 [Course | Implementing ETL with SQL Server Integration Services | edX](https://learning.edx.org/course/course-v1:Microsoft+DAT217x+3T2018/home)
-
-
 
 ### OLAP
 
