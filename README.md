@@ -4,9 +4,11 @@
 
 ## Data Engineer
 
-### General Course
+### General 
 
 https://nikamooz.com/product/data-engineering-course/
+
+[Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python: 9781839214189: Computer Science Books @ Amazon.com](https://www.amazon.com/Data-Engineering-Python-datasets-pipelines/dp/183921418X)
 
 ### Python
 
@@ -16,9 +18,13 @@ https://nikamooz.com/product/data-engineering-course/
 
 [Course | Implementing ETL with SQL Server Integration Services | edX](https://learning.edx.org/course/course-v1:Microsoft+DAT217x+3T2018/home)
 
+[Apache Nifi for Dummies: Learn the Basics | Udemy](https://www.udemy.com/course/apache-nifi-for-dummies-learn-the-basics/)
+
 ### SQL
 
 [Querying Data with Transact-SQL | edX](https://www.edx.org/course/querying-data-with-transact-sql-2)
+
+
 
 ## Data Scientist
 
@@ -33,6 +39,8 @@ https://nikamooz.com/product/data-engineering-course/
 ### SQL
 
 [Querying Data with Transact-SQL | edX](https://www.edx.org/course/querying-data-with-transact-sql-2)
+
+
 
 ## Data Analyst
 
@@ -52,6 +60,8 @@ https://nikamooz.com/product/data-engineering-course/
 
 [Querying Data with Transact-SQL | edX](https://www.edx.org/course/querying-data-with-transact-sql-2)
 
+
+
 ## BI Analyst
 
 ### Python
@@ -67,6 +77,8 @@ https://nikamooz.com/product/data-engineering-course/
 ### SQL
 
 [Querying Data with Transact-SQL | edX](https://www.edx.org/course/querying-data-with-transact-sql-2)
+
+
 
 ## BI Developer
 
