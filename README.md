@@ -6,7 +6,7 @@
 
 ### General 
 
-https://nikamooz.com/product/data-engineering-course/
+[دوره آموزش مهندسی داده](https://nikamooz.com/product/data-engineering-course/)
 
 [Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python: 9781839214189: Computer Science Books @ Amazon.com](https://www.amazon.com/Data-Engineering-Python-datasets-pipelines/dp/183921418X)
 
