@@ -10,6 +10,8 @@
 
 [Data Engineering with Python: Work with massive datasets to design data models and automate data pipelines using Python: 9781839214189: Computer Science Books @ Amazon.com](https://www.amazon.com/Data-Engineering-Python-datasets-pipelines/dp/183921418X)
 
+[Introduction to Big Data with Spark and Hadoop | Coursera](https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop?specialization=ibm-data-engineer)
+
 ### Python
 
 [Python 3 Programming | Coursera](https://www.coursera.org/specializations/python-3-programming)
@@ -25,8 +27,6 @@
 ### SQL
 
 [Introduction to Relational Databases (RDBMS) | Coursera](https://www.coursera.org/learn/introduction-to-relational-databases?specialization=ibm-data-engineer)
-
-[Introduction to Big Data with Spark and Hadoop | Coursera](https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop?specialization=ibm-data-engineer)
 
 [Querying Data with Transact-SQL | edX](https://www.edx.org/course/querying-data-with-transact-sql-2)
 
