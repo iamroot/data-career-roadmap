@@ -28,7 +28,7 @@ https://nikamooz.com/product/data-engineering-course/
 
 [Querying Data with Transact-SQL | edX](https://www.edx.org/course/querying-data-with-transact-sql-2)
 
-
+[دوره آموزش کوئری نویسی در SQL Server 2019](https://nikamooz.com/product/query-sql-server-course/)
 
 ## Data Scientist
 
