@@ -40,6 +40,20 @@ https://nikamooz.com/product/data-engineering-course/
 
 [Machine Learning | Coursera](https://www.coursera.org/learn/machine-learning)
 
+[Machine Learning With Big Data | Coursera](https://www.coursera.org/learn/big-data-machine-learning?specialization=big-data)
+
+### Deep Learning
+
+[Neural Networks and Deep Learning | Coursera](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+
+[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization | Coursera](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+
+[Structuring Machine Learning Projects | Coursera](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+
+[Convolutional Neural Networks | Coursera](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+
+[Sequence Models | Coursera](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
+
 ### SQL
 
 [Querying Data with Transact-SQL | edX](https://www.edx.org/course/querying-data-with-transact-sql-2)
